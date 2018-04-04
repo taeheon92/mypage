@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+    font-size: xx-large;
+    background-color: rgba( 255, 255, 255, 0.5 );
+
+}
+
+h2 {
+    color: white;
+    font-style: normal;
+    text-align: center;
+    text-shadow: 2px 2px 2px gray;
+    background-color: rgba( 255, 255, 255, 0.5 );
+
+}
+
+#box1 {
+    background-image: url(first.jpg);
+    height: 91vh; 
+    width: 100%;
+    background-size: cover;
+}
+

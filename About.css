@@ -1,0 +1,27 @@
+#box1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(bottom.png);
+    background-size: cover;
+    background-attachment: fixed;
+    border-bottom: solid;
+}
+
+h1 {
+    font-family: "Nanum Gothic";
+    text-shadow: 2px 2px 2px gray;
+
+    
+}
+
+.col-sm {
+    font-family: "Nanum Gothic";
+
+}
+
+img {
+    margin: 10 10 10 10;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10%;
+    vertical-align: super;
+}
